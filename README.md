@@ -10,11 +10,7 @@ This is a bounty program repo to request community members do specific tasks for
 
 Thank you for your patience in this time as we get the larger scale projects started, there will be a pause.
 
-
-
-Bounty Ask 0:
-
-High project token pay to any grant writeres for ecosystem grants for polygon and gnosis chain at this time.
+==================
 
 Please inquire with an Issue Post.   Thank you very much for approaching with your aide!  We are a strictly humanitarian project with no non individuals allowed.
 
@@ -25,3 +21,9 @@ Thank you for reading, community!  Please reply to all bounties in Issues!
 Much pay and bounty hunting love to you!
 
 -- the titan crisis response team.
+
+----------- Bounties below!  Good luck on your hunting! ----------
+
+Bounty Ask 0:
+
+High project token pay to any grant writeres for ecosystem grants for polygon and gnosis chain at this time.
